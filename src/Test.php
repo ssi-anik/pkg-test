@@ -1,6 +1,6 @@
 <?php
 
-namespace Anik\PackageTest;
+namespace Anik\PkgTest;
 
 class Test
 {
