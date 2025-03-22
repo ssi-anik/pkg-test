@@ -13,4 +13,13 @@ class Test
     {
         return $a - $b;
     }
+
+    public static function div(int $a, int $b): float
+    {
+        if ($b == 0) {
+            throw new \Exception('Division by zero');
+        }
+
+        return $a / $b;
+    }
 }
