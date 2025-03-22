@@ -1,5 +1,5 @@
 {
-    "name": "anik/pkg-test",
+    "name": "anik/pkg-test-new",
     "autoload": {
         "psr-4": {
             "Anik\\PkgTest\\": "src/"
