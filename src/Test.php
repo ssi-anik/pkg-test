@@ -9,7 +9,7 @@ class Test
         return $a + $b + $c;
     }
 
-    public function sub(int $a, int $b): int
+    public static function sub(int $a, int $b): int
     {
         return $a - $b;
     }
