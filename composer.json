@@ -1,0 +1,15 @@
+{
+    "name": "anik/pkg-test",
+    "autoload": {
+        "psr-4": {
+            "Anik\\PkgTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Syed Sirajul Islam Anik",
+            "email": "sirajul.islam.anik@gmail.com"
+        }
+    ],
+    "require": {}
+}
